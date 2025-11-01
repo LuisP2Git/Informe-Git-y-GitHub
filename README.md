@@ -91,8 +91,3 @@ git push -u origin main
 - Videos sobre Git y GitHub (YouTube).  
 - Guía oficial de GitHub sobre escritura y formato.  
 - Documentación de Markdown.  
-
----
-
-## ✅ Entrega
-Sube este archivo `README.md` con tus capturas al repositorio, confirma que todo se vea bien, y comparte el enlace del repo como entrega final.
